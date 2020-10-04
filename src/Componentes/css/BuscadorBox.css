@@ -1,0 +1,17 @@
+.BuscadorBox{
+  height: 10vh;
+  background-color: teal;
+  width: 100%;
+  text-align: center;
+}
+.Text-Button{
+    float: left;
+    font-size: 40px;
+    width: 50%;
+    margin-left: 35px;
+}
+.Filter{
+    float: left;
+   font-size: 40px;
+   
+}

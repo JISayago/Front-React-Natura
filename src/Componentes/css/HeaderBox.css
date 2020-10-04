@@ -1,0 +1,31 @@
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    }
+
+.HeaderBox{
+    height: 10vw;
+    max-width: 100%;    
+    background-color: #ffb802;
+    margin: 0px;
+}
+.HeaderBox_Top{
+    padding: 5px;
+    margin-left: 15px;
+    padding-top: 15px;
+}
+.HeaderBox_Bot{
+    text-align: center;
+    margin-top: 8vh;
+    font-size: 35px;
+    
+}
+.HeaderBox_Bot a{
+    margin: 0px 15px;
+    text-decoration: none;
+    color:white;
+}
+.HeaderBox_Bot a:hover{
+  color: #ff570f;
+}

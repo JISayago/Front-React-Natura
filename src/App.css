@@ -1,0 +1,13 @@
+.App{
+    width:100vw;
+    position: absolute;
+}
+.LeftCenter{
+    max-width: 100%;
+}
+.App-Left{
+    float: left;
+}
+.App-Center{
+  justify-items: center;
+}

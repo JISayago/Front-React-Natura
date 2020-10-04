@@ -1,0 +1,22 @@
+.LeftBox{
+    height: 80vh;    
+    background-color: #ff570f;
+    border: 0.2px solid #ff570f;
+    text-align: center;
+    justify-content: space-around;
+}
+.LeftItem{
+    padding: 25px;
+    margin-bottom: 25px;
+    font-size: 30px;
+}
+.LeftItem a{
+    text-decoration: none;
+    color: white;
+}
+.LeftItem:hover{
+    background-color:#ffb802;
+}
+.LeftItem a:hover{
+    color:#ff570f;
+}
